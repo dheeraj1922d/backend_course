@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend developement with chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
